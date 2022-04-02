@@ -7,9 +7,9 @@
 
 ### REQUIREMENTS:
 
-**python==3.10.0**
-**pyshorteners==1.0.1**
-**pip install pyshorteners**
+####python==3.10.0
+####pyshorteners==1.0.1**
+####-- pip install pyshorteners --
 
 ---
 
